@@ -5,6 +5,24 @@ public class App {
     
         Player player = new Player();
 
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
+        // output(player.play());
         
         // Variante 1
         // for (int i = 0; i < 12; i++) {
@@ -12,10 +30,9 @@ public class App {
         // }
 
         // Variante 2
-        // while (player.points < 13) {
-        //     output(player.play()); 
-        // }
-
+        while (player.points < 13) {
+            output(player.play()); 
+        }
 
        
     }
